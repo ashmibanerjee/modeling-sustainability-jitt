@@ -1,0 +1,223 @@
+city,city_ascii,lat,lng,country,iso2,iso3,capital,population,IATA,ICAO,Airport
+Moscow,Moscow,55.7558,37.6178,Russia,RU,RUS,primary,17332000.0,SVO,UUEE,Sheremetyevo Intl Airport
+Moscow,Moscow,55.7558,37.6178,Russia,RU,RUS,primary,17332000.0,VKO,UUWW,Vnukovo Airport
+Moscow,Moscow,55.7558,37.6178,Russia,RU,RUS,primary,17332000.0,DME,UUDD,Domodedovo Intl Airport
+Istanbul,Istanbul,41.0136,28.955,Turkey,TR,TUR,admin,16079000.0,SAW,LTFJ,Istanbul Sabiha Gokcen Intl Airport
+Istanbul,Istanbul,41.0136,28.955,Turkey,TR,TUR,admin,16079000.0,IST,LTBA,Istanbul Ataturk Intl Airport
+London,London,51.5072,-0.1275,United Kingdom,GB,GBR,primary,11262000.0,LTN,EGGW,London Luton Airport
+London,London,51.5072,-0.1275,United Kingdom,GB,GBR,primary,11262000.0,LHR,EGLL,London Heathrow Airport
+London,London,51.5072,-0.1275,United Kingdom,GB,GBR,primary,11262000.0,LGW,EGKK,London Gatwick Airport
+London,London,51.5072,-0.1275,United Kingdom,GB,GBR,primary,11262000.0,BQH,EGKB,London Biggin Hill Airport
+London,London,51.5072,-0.1275,United Kingdom,GB,GBR,primary,11262000.0,LCY,EGLC,London City Airport
+London,London,51.5072,-0.1275,United Kingdom,GB,GBR,primary,11262000.0,STN,EGSS,London Stansted Airport
+Paris,Paris,48.8567,2.3522,France,FR,FRA,primary,11060000.0,ORY,LFPO,Paris - Orly Airport
+Paris,Paris,48.8567,2.3522,France,FR,FRA,primary,11060000.0,CDG,LFPG,Paris - Roissy Charles de Gaulle Airport
+Paris,Paris,48.8567,2.3522,France,FR,FRA,primary,11060000.0,LBG,LFPB,Paris - Le Bourget Airport
+Madrid,Madrid,40.4169,-3.7033,Spain,ES,ESP,primary,6211000.0,TOJ,LETO,Madrid Torrejon Airport
+Madrid,Madrid,40.4169,-3.7033,Spain,ES,ESP,primary,6211000.0,MAD,LEMD,Madrid Barajas Intl Airport
+Ankara,Ankara,39.93,32.85,Turkey,TR,TUR,primary,5503985.0,ESB,LTAC,Ankara Esenboga Intl Airport
+Saint Petersburg,Saint Petersburg,59.95,30.3167,Russia,RU,RUS,admin,5384342.0,LED,ULLI,Pulkovo Airport
+Barcelona,Barcelona,41.3825,2.1769,Spain,ES,ESP,admin,4800000.0,BCN,LEBL,Barcelona Intl Airport (El Prat)
+Berlin,Berlin,52.52,13.405,Germany,DE,DEU,primary,4473101.0,TXL,EDDT,Berlin Tegel (Otto Lilienthal)
+Berlin,Berlin,52.52,13.405,Germany,DE,DEU,primary,4473101.0,BER,EDDB,Berlin Brandenburg (Willy Brandt)
+Berlin,Berlin,52.52,13.405,Germany,DE,DEU,primary,4473101.0,SXF,EDDB,Berlin Schonefeld
+İzmir,Izmir,38.42,27.14,Turkey,TR,TUR,admin,4320519.0,ADB,LTBJ,Izmir Adnan Menderes Airport
+Budapest,Budapest,47.4925,19.0514,Hungary,HU,HUN,primary,2997958.0,BUD,LHBP,Budapest Ferihegy Intl Airport
+Bursa,Bursa,40.1833,29.05,Turkey,TR,TUR,admin,2901396.0,YEI,LTBR,Bursa Yenisehir Airport
+Rome,Rome,41.8931,12.4828,Italy,IT,ITA,primary,2872800.0,CIA,LIRA,Ciampino Airport (Giovan Battista Pastine)
+Rome,Rome,41.8931,12.4828,Italy,IT,ITA,primary,2872800.0,FCO,LIRF,Fiumicino (Leonardo Da Vinci Intl Airport)
+Stuttgart,Stuttgart,48.7775,9.18,Germany,DE,DEU,admin,2787724.0,STR,EDDS,Stuttgart
+Munich,Munich,48.1375,11.575,Germany,DE,DEU,admin,2606021.0,MUC,EDDM,Munchen (Franz Josef Strauss)
+Hamburg,Hamburg,53.55,10.0,Germany,DE,DEU,admin,2484800.0,HAM,EDDH,Hamburg-Fuhlsbuttel
+Hamburg,Hamburg,53.55,10.0,Germany,DE,DEU,admin,2484800.0,XFW,EDHI,Finkenwerder (Airbus)
+Antalya,Antalya,36.8874,30.7075,Turkey,TR,TUR,admin,2426356.0,AYT,LTAI,Antalya Airport
+Baku,Baku,40.3667,49.8352,Azerbaijan,AZ,AZE,primary,2300500.0,BAK,UBBB,Bina
+Baku,Baku,40.3667,49.8352,Azerbaijan,AZ,AZE,primary,2300500.0,GYD,UBBB,Baku
+Konya,Konya,37.8667,32.4833,Turkey,TR,TUR,admin,2232374.0,KYA,LTAN,Konya Airport
+Gaziantep,Gaziantep,37.0628,37.3792,Turkey,TR,TUR,admin,2028563.0,GZT,LTAJ,Oguzeli Airport
+Minsk,Minsk,53.9,27.5667,Belarus,BY,BLR,primary,2009786.0,MHP,UMMM,Minsk-1
+Minsk,Minsk,53.9,27.5667,Belarus,BY,BLR,primary,2009786.0,MSQ,UMMS,Minsk-2
+Şanlıurfa,Sanliurfa,37.1583,38.7917,Turkey,TR,TUR,admin,1985753.0,SFQ,LTCH,Sanliurfa Airport
+Vienna,Vienna,48.2083,16.3725,Austria,AT,AUT,primary,1973403.0,VIE,LOWW,Wien - Schwechat
+Warsaw,Warsaw,52.23,21.0111,Poland,PL,POL,primary,1860281.0,WAW,EPWA,Warsaw Frederic Chopin Airport
+Adana,Adana,37.0,35.3213,Turkey,TR,TUR,admin,1765981.0,ADA,LTAF,Adana Airport
+Brussels,Brussels,50.8467,4.3525,Belgium,BE,BEL,primary,1743000.0,BRU,EBBR,Brussels National Airport
+Diyarbakır,Diyarbakir,37.91,40.24,Turkey,TR,TUR,admin,1732396.0,DIY,LTCC,Diyarbakir Airport
+Stockholm,Stockholm,59.3294,18.0686,Sweden,SE,SWE,primary,1611776.0,BMA,ESSB,Bromma
+Stockholm,Stockholm,59.3294,18.0686,Sweden,SE,SWE,primary,1611776.0,NYO,ESKN,Skavsta
+Stockholm,Stockholm,59.3294,18.0686,Sweden,SE,SWE,primary,1611776.0,ARN,ESSA,Arlanda
+Sofia,Sofia,42.7,23.33,Bulgaria,BG,BGR,primary,1547779.0,SOF,LBSF,Sofia Airport
+Amsterdam,Amsterdam,52.3728,4.8936,Netherlands,NL,NLD,primary,1459402.0,AMS,EHAM,Amsterdam Schiphol Airport
+Kharkiv,Kharkiv,49.9925,36.2311,Ukraine,UA,UKR,admin,1446107.0,HRK,UKHH,Osnova Airport
+Kayseri,Kayseri,38.7225,35.4875,Turkey,TR,TUR,admin,1389680.0,ASR,LTAU,Kayseri Erkilet Intl Airport
+Belgrade,Belgrade,44.82,20.46,Serbia,RS,SRB,primary,1378682.0,BEG,LYBE,Belgrade Nikola Tesla Airport
+Copenhagen,Copenhagen,55.6761,12.5683,Denmark,DK,DNK,primary,1366301.0,CPH,EKCH,Copenhagen Kastrup Intl Airport
+Copenhagen,Copenhagen,55.6761,12.5683,Denmark,DK,DNK,primary,1366301.0,RKE,EKRK,Copenhagen Roskilde Airport
+Milan,Milan,45.4669,9.19,Italy,IT,ITA,admin,1366180.0,MXP,LIMC,Malpensa Intl Airport
+Milan,Milan,45.4669,9.19,Italy,IT,ITA,admin,1366180.0,LIN,LIML,Linate Airport
+Samsun,Samsun,41.2903,36.3336,Turkey,TR,TUR,admin,1335716.0,SZF,LTFH,Samsun Carsamba Airport
+Prague,Prague,50.0875,14.4214,Czechia,CZ,CZE,primary,1335084.0,PRG,LKPR,Prague
+Porto,Porto,41.1621,-8.622,Portugal,PT,PRT,admin,1278210.0,OPO,LPPR,Francisco Sa Carneiro Airport
+Helsinki,Helsinki,60.1708,24.9375,Finland,FI,FIN,primary,1268296.0,HEM,EFHF,Helsinki-Malmi Airport
+Kazan,Kazan,55.7964,49.1089,Russia,RU,RUS,admin,1243500.0,KZN,UWKD,Kazan Airport
+Chelyabinsk,Chelyabinsk,55.15,61.4,Russia,RU,RUS,admin,1202371.0,CEK,USCC,Balandino Airport
+Dublin,Dublin,53.35,-6.2603,Ireland,IE,IRL,primary,1173179.0,DUB,EIDW,Dublin Intl Airport
+Samara,Samara,53.2028,50.1408,Russia,RU,RUS,admin,1169719.0,KUF,UWWW,Kurumoch Airport
+Tbilisi,Tbilisi,41.7225,44.7925,Georgia,GE,GEO,primary,1118035.0,TBS,UGGG,Lochini
+Ufa,Ufa,54.7261,55.9475,Russia,RU,RUS,admin,1115560.0,UFA,UWUU,Ufa Airport
+Sevilla,Sevilla,37.24,-5.99,Spain,ES,ESP,admin,1100000.0,SVQ,LEZL,Seville Airport
+Voronezh,Voronezh,51.6717,39.2106,Russia,RU,RUS,admin,1050602.0,VOZ,UUOO,Chertovitskoye Airport
+Perm,Perm,58.0139,56.2489,Russia,RU,RUS,admin,1048005.0,PEE,USPP,Bolshoye Savino Airport
+Denizli,Denizli,37.7667,29.0833,Turkey,TR,TUR,admin,1027782.0,DNZ,LTAY,Denizli Cardak Airport
+Volgograd,Volgograd,48.7086,44.5147,Russia,RU,RUS,admin,1015586.0,VOG,URWW,Gumrak Airport
+Naples,Naples,40.8333,14.25,Italy,IT,ITA,admin,966144.0,NAP,LIRN,Naples Intl Airport (Capodichino Airport)
+Krasnodar,Krasnodar,45.0333,38.9667,Russia,RU,RUS,admin,948827.0,KRR,URKK,Pashkovsky Airport
+Donetsk,Donetsk,48.0028,37.8053,Ukraine,UA,UKR,admin,929063.0,DOK,UKCC,Donetsk Airport
+Riga,Riga,56.9489,24.1064,Latvia,LV,LVA,primary,920643.0,RIX,EVRA,Riga Intl Airport
+Eskişehir,Eskisehir,39.7767,30.5206,Turkey,TR,TUR,admin,871187.0,AOE,LTBY,Eskisehir Anadolu Airport
+Saratov,Saratov,51.5333,46.0167,Russia,RU,RUS,admin,845300.0,RTW,UWSS,Tsentralny Airport
+Thessaloníki,Thessaloniki,40.6403,22.9347,Greece,GR,GRC,admin,824676.0,SKG,LGTS,Thessaloniki Intl Airport (Makedonia)
+Zagreb,Zagreb,45.8167,15.9833,Croatia,HR,HRV,primary,809268.0,ZAG,LDZA,Zagreb Airport
+Kraków,Krakow,50.0614,19.9372,Poland,PL,POL,admin,800653.0,KRK,EPKK,John Paul II Intl Airport Krakow-Balice
+Valencia,Valencia,39.47,-0.3764,Spain,ES,ESP,admin,792492.0,VLC,LEVC,Valencia Airport
+Erzurum,Erzurum,39.9086,41.2769,Turkey,TR,TUR,admin,767848.0,ERZ,LTCE,Erzurum Airport
+Zaporizhzhia,Zaporizhzhia,47.85,35.1175,Ukraine,UA,UKR,admin,741717.0,OZH,UKDE,Zaporizhzhia Intl Airport
+Lviv,Lviv,49.8425,24.0322,Ukraine,UA,UKR,admin,724314.0,LWO,UKLL,Lviv Airport
+Vilnius,Vilnius,54.6872,25.28,Lithuania,LT,LTU,primary,708203.0,VNO,EYVI,Vilnius
+Chisinau,Chisinau,47.0228,28.8353,Moldova,MD,MDA,primary,702300.0,KIV,LUKK,Chisinau
+Łódź,Lodz,51.7769,19.4547,Poland,PL,POL,admin,690422.0,LCJ,EPLL,Lodz Wladyslaw Reymont Airport
+Zaragoza,Zaragoza,41.65,-0.8833,Spain,ES,ESP,admin,675301.0,ZAZ,LEZG,Zaragoza Airport
+Wrocław,Wroclaw,51.11,17.0325,Poland,PL,POL,admin,672929.0,WRO,EPWR,Copernicus Airport Wroclaw
+Murcia,Murcia,37.9861,-1.1303,Spain,ES,ESP,admin,672773.0,MJV,LELC,Murcia-San Javier Airport
+Düsseldorf,Dusseldorf,51.2333,6.7833,Germany,DE,DEU,admin,645923.0,DUS,EDDL,Flughafen Dusseldorf International
+Skopje,Skopje,41.9961,21.4317,Macedonia,MK,MKD,primary,640000.0,SKP,LWSK,Skopje
+Bremen,Bremen,53.0833,8.8,Germany,DE,DEU,admin,566573.0,BRE,EDDW,Airport Bremen
+Orenburg,Orenburg,51.7667,55.1,Russia,RU,RUS,admin,564773.0,REN,UWOO,Tsentralny Airport
+Dresden,Dresden,51.05,13.74,Germany,DE,DEU,admin,561922.0,DRS,EDDC,Flughafen Dresden
+Poznań,Poznan,52.4083,16.9336,Poland,PL,POL,admin,546859.0,POZ,EPPO,Poznan-Lawica Airport
+Hannover,Hannover,52.3667,9.7167,Germany,DE,DEU,admin,542668.0,HAJ,EDDV,Hannover-Langenhagen
+Astrakhan,Astrakhan,46.35,48.035,Russia,RU,RUS,admin,532504.0,ASF,URWA,Astrakhan Airport
+Penza,Penza,53.2,45.0,Russia,RU,RUS,admin,523726.0,PEZ,UWPP,Penza Airport
+Lyon,Lyon,45.76,4.84,France,FR,FRA,admin,522969.0,LYS,LFLL,Lyon Saint Exupery Airport
+Lyon,Lyon,45.76,4.84,France,FR,FRA,admin,522969.0,LYN,LFLY,Lyon - Bron Airport
+Kirov,Kirov,58.6,49.65,Russia,RU,RUS,admin,501468.0,KVX,USKK,Kirov Airport
+Mykolaiv,Mykolaiv,46.975,31.995,Ukraine,UA,UKR,admin,498748.0,NLV,UKON,Mykolaiv Airport
+Toulouse,Toulouse,43.6045,1.444,France,FR,FRA,admin,493465.0,TLS,LFBO,Toulouse - Blagnac Airport
+Cheboksary,Cheboksary,56.1333,47.25,Russia,RU,RUS,admin,489498.0,CSY,UWKS,Cheboksary Airport
+Gdańsk,Gdansk,54.3475,18.6453,Poland,PL,POL,admin,486022.0,GDN,EPGD,Gdansk Lech Walesa Airport
+Bratislava,Bratislava,48.1439,17.1097,Slovakia,SK,SVK,primary,475503.0,BTS,LZIB,M.R. Stefanik Airport Bratislava
+Kaliningrad,Kaliningrad,54.7003,20.4531,Russia,RU,RUS,admin,475056.0,KGD,UMKK,Khrabrovo Airport
+Stavropol,Stavropol,45.05,41.9833,Russia,RU,RUS,admin,450680.0,STW,URMT,Shpakovskoye Airport
+Batman,Batman,37.887,41.132,Turkey,TR,TUR,admin,447106.0,BAL,LTCJ,Batman Airport
+Kahramanmaraş,Kahramanmaras,37.5833,36.9333,Turkey,TR,TUR,admin,443575.0,KCM,LTCN,Kahramanmaras Airport
+Tallinn,Tallinn,59.4372,24.7453,Estonia,EE,EST,primary,438341.0,TLL,EETN,Tallinn Airport
+Zürich,Zurich,47.3744,8.5411,Switzerland,CH,CHE,admin,436332.0,ZRH,LSZH,Zurich Airport
+Trabzon,Trabzon,41.005,39.7225,Turkey,TR,TUR,admin,426882.0,TZX,LTCG,Trabzon Airport
+Malatya,Malatya,38.3486,38.3194,Turkey,TR,TUR,admin,426381.0,MLX,LTAT,Malatya Erhac Airport
+Elazığ,Elazig,38.6744,39.2228,Turkey,TR,TUR,admin,421726.0,EZS,LTCA,Elazig Airport
+Sarajevo,Sarajevo,43.8564,18.4131,Bosnia and Herzegovina,BA,BIH,primary,419957.0,SJJ,LQSA,Sarajevo
+Tirana,Tirana,41.3289,19.8178,Albania,AL,ALB,primary,418495.0,TIA,LATI,Tirana Intl Airport Mother Teresa
+Szczecin,Szczecin,53.4325,14.5481,Poland,PL,POL,admin,403833.0,SZZ,EPSC,Szczecin-Goleniow Solidarnosc Airport
+Bologna,Bologna,44.4939,11.3428,Italy,IT,ITA,admin,392564.0,BLQ,LIPE,Aeroporto G. Marconi di Bologna
+Belgorod,Belgorod,50.6,36.6,Russia,RU,RUS,admin,391702.0,EGO,UUOB,Belgorod Airport
+Plovdiv,Plovdiv,42.15,24.75,Bulgaria,BG,BGR,admin,383540.0,PDV,LBPD,Plovdiv Intl Airport
+Brno,Brno,49.1925,16.6083,Czechia,CZ,CZE,admin,382405.0,BRQ,LKTB,Brno
+Kaunas,Kaunas,54.8972,23.8861,Lithuania,LT,LTU,admin,381007.0,KUN,EYKA,Kaunas
+Novi Sad,Novi Sad,45.2542,19.8425,Serbia,RS,SRB,admin,380000.0,QND,LYNS,Novi Sad Airport
+Sivas,Sivas,39.75,37.0167,Turkey,TR,TUR,admin,377561.0,VAS,LTAR,Sivas Airport
+Vinnytsia,Vinnytsia,49.2333,28.4833,Ukraine,UA,UKR,admin,371855.0,VIN,UKWW,Vinnytsia Airport
+Van,Van,38.4942,43.38,Turkey,TR,TUR,admin,353419.0,VAN,LTCI,Van Ferit Melen Airport
+Malmö,Malmo,55.6058,13.0358,Sweden,SE,SWE,admin,351749.0,MMX,ESMS,Sturup
+Arkhangelsk,Arkhangelsk,64.55,40.5333,Russia,RU,RUS,admin,351488.0,ARH,ULAA,Talagi Airport
+Varna,Varna,43.2167,27.9167,Bulgaria,BG,BGR,admin,348668.0,VAR,LBWN,Varna Intl Airport
+Bydgoszcz,Bydgoszcz,53.1219,18.0003,Poland,PL,POL,admin,346739.0,BZG,EPBY,Bydgoszcz Ignacy Jan Paderewski Airport
+Simferopol,Simferopol,44.9484,34.1,Ukraine,UA,UKR,admin,341799.0,SIP,UKFF,Simferopol Airport
+Brest,Brest,52.1347,23.6569,Belarus,BY,BLR,admin,340723.0,BQT,UMBB,Brest
+Tampere,Tampere,61.4981,23.76,Finland,FI,FIN,admin,334112.0,TMP,EFTP,Tampere-Pirkkala Airport
+Balıkesir,Balikesir,39.6333,27.8833,Turkey,TR,TUR,admin,331788.0,EDO,LTFD,Edremit Korfez Airport
+Nicosia,Nicosia,35.1725,33.365,Cyprus,CY,CYP,primary,330000.0,ECN,LCEN,Ercan Intl Airport
+Debrecen,Debrecen,47.53,21.6392,Hungary,HU,HUN,admin,328642.0,DEB,LHDC,Debrecen Intl Airport
+Cluj-Napoca,Cluj-Napoca,46.7667,23.5833,Romania,RO,ROU,admin,324576.0,CLJ,LRCL,Cluj-Napoca Intl Airport
+Bari,Bari,41.1253,16.8667,Italy,IT,ITA,admin,323370.0,BRI,LIBD,Palese Macchie Airport
+Timişoara,Timisoara,45.7597,21.23,Romania,RO,ROU,admin,319279.0,TSR,LRTR,Timisoara (Traian Vuia) Intl Airport
+Nantes,Nantes,47.2181,-1.5528,France,FR,FRA,admin,318808.0,NTE,LFRS,Nantes Atlantique Airport
+Vladikavkaz,Vladikavkaz,43.04,44.6775,Russia,RU,RUS,admin,306978.0,OGZ,URMO,Beslan Airport
+Adıyaman,Adiyaman,37.7639,38.2778,Turkey,TR,TUR,admin,304615.0,ADF,LTCP,Adiyaman Airport
+Murmansk,Murmansk,68.9706,33.075,Russia,RU,RUS,admin,298096.0,MMK,ULMM,Murmansk Airport
+Valladolid,Valladolid,41.6528,-4.7236,Spain,ES,ESP,admin,297775.0,VLL,LEVD,Valladolid Airport
+Strasbourg,Strasbourg,48.5833,7.7458,France,FR,FRA,admin,290576.0,SXB,LFST,Strasbourg Airport
+Iaşi,Iasi,47.1622,27.5889,Romania,RO,ROU,admin,290422.0,IAS,LRIA,Iasi Intl Airport
+Ljubljana,Ljubljana,46.0514,14.5061,Slovenia,SI,SVN,primary,286745.0,LJU,LJLJ,Aerodrom Ljubljana
+Constanţa,Constanta,44.1667,28.6333,Romania,RO,ROU,admin,283872.0,CND,LRCK,Constanta (Mihail Kogalniceanu) Intl Airport
+Petrozavodsk,Petrozavodsk,61.7833,34.35,Russia,RU,RUS,admin,278551.0,PES,ULPB,Besovets Airport
+Maastricht,Maastricht,50.85,5.6833,Netherlands,NL,NLD,admin,277721.0,MST,EHBK,Maastricht Aachen Airport
+Craiova,Craiova,44.3333,23.8167,Romania,RO,ROU,admin,269506.0,CRA,LRCV,Craiova Airport
+Bergen,Bergen,60.3894,5.33,Norway,NO,NOR,admin,267117.0,BGO,ENBR,"Bergen Airport, Flesland"
+Nalchik,Nalchik,43.4833,43.6167,Russia,RU,RUS,admin,265162.0,NAL,URMN,Nalchik Airport
+Bordeaux,Bordeaux,44.84,-0.58,France,FR,FRA,admin,260958.0,BOD,LFBD,Bordeaux Airport Airport
+Isparta,Isparta,37.7647,30.5567,Turkey,TR,TUR,admin,258375.0,ISE,LTFC,Suleyman Demirel Airport
+Vitoria-Gasteiz,Vitoria-Gasteiz,42.85,-2.6833,Spain,ES,ESP,admin,253672.0,VIT,LEVT,Vitoria Airport
+Turku,Turku,60.45,22.2667,Finland,FI,FIN,admin,252468.0,TKU,EFTU,Turku Airport
+Kiel,Kiel,54.3233,10.1394,Germany,DE,DEU,admin,246601.0,KEL,EDHK,Kiel-Holtenau
+Rivne,Rivne,50.6192,26.2519,Ukraine,UA,UKR,admin,246574.0,RWN,UKLR,Rivne Airport
+Syktyvkar,Syktyvkar,61.6667,50.8167,Russia,RU,RUS,admin,245313.0,SCW,UUYY,Syktyvkar Airport
+Košice,Kosice,48.7167,21.25,Slovakia,SK,SVK,admin,238593.0,KSC,LZKZ,Kosice Airport
+Ivano-Frankivsk,Ivano-Frankivsk,48.9228,24.7106,Ukraine,UA,UKR,admin,238196.0,IFO,UKLI,Ivano-Frankivsk Airport
+Stavanger,Stavanger,58.97,5.7314,Norway,NO,NOR,admin,237369.0,SVG,ENZV,"Stavanger Airport, Sola"
+Magdeburg,Magdeburg,52.1317,11.6392,Germany,DE,DEU,admin,236188.0,CSO,EDBC,Magdeburg
+Lille,Lille,50.6278,3.0583,France,FR,FRA,admin,234475.0,LIL,LFQQ,Lille-Lesquin Airport
+Cork,Cork,51.8972,-8.47,Ireland,IE,IRL,admin,222333.0,ORK,EICK,Cork Intl Airport
+Rennes,Rennes,48.1147,-1.6794,France,FR,FRA,admin,220488.0,RNS,LFRN,Rennes - Saint-Jacques Airport
+Zielona Góra,Zielona Gora,51.9333,15.5,Poland,PL,POL,admin,216781.0,IEG,EPZG,Zielona Gora Intl Airport
+Erfurt,Erfurt,50.9833,11.0333,Germany,DE,DEU,admin,213835.0,ERF,EDDE,Erfurt
+Burgas,Burgas,42.503,27.4702,Bulgaria,BG,BGR,admin,210813.0,BOJ,LBBG,Burgas Intl Airport (Sarafovo Airport)
+Pskov,Pskov,57.8167,28.3333,Russia,RU,RUS,admin,209840.0,PKV,ULOO,Pskov Airport
+Tekirdağ,Tekirdag,40.9778,27.5153,Turkey,TR,TUR,admin,204001.0,TEQ,LTBU,Corlu Airport
+Pamplona,Pamplona,42.8167,-1.65,Spain,ES,ESP,admin,203418.0,PNA,LEPP,Pamplona Airport
+Geneva,Geneva,46.2017,6.1469,Switzerland,CH,CHE,admin,201818.0,GVA,LSGG,Geneva - Cointrin
+Oradea,Oradea,47.0722,21.9211,Romania,RO,ROU,admin,196367.0,OMR,LROD,Oradea Intl Airport
+Rzeszów,Rzeszow,50.0333,22.0,Poland,PL,POL,admin,195871.0,RZE,EPRZ,Rzeszow-Jasionka Airport
+Muş,Mus,38.7333,41.4911,Turkey,TR,TUR,admin,193394.0,MSR,LTCK,Mus Airport
+Rijeka,Rijeka,45.3272,14.4411,Croatia,HR,HRV,admin,191293.0,RJK,LDRI,Rijeka Airport
+Niš,Nis,43.3192,21.8961,Serbia,RS,SRB,admin,183164.0,INI,LYNI,Nis Constantine the Great Intl Airport
+Braga,Braga,41.5503,-8.42,Portugal,PT,PRT,admin,181494.0,BGZ,LPBR,Braga Airport
+Çanakkale,Canakkale,40.1519,26.4056,Turkey,TR,TUR,admin,180823.0,CKZ,LTBH,Canakkale Airport
+Saarbrücken,Saarbrucken,49.2333,7.0,Germany,DE,DEU,admin,179634.0,SCN,EDDR,Saarbrucken
+Santander,Santander,43.4628,-3.805,Spain,ES,ESP,admin,172221.0,SDR,LEXJ,Santander Airport
+Siirt,Siirt,37.925,41.9458,Turkey,TR,TUR,admin,166332.0,SXZ,LTCL,Siirt Airport
+Perugia,Perugia,43.1122,12.3889,Italy,IT,ITA,admin,165683.0,PEG,LIRZ,San Egidio Airport
+Pristina,Pristina,42.6633,21.1622,Kosovo,XK,XKS,primary,161751.0,PRN,LYPR,Pristina Intl Airport
+Arad,Arad,46.175,21.3125,Romania,RO,ROU,admin,159074.0,ARW,LRAR,Arad Intl Airport
+Dijon,Dijon,47.3167,5.0167,France,FR,FRA,admin,158002.0,DIJ,LFSD,Dijon-Bourgogne Airport
+Erzincan,Erzincan,39.7464,39.4914,Turkey,TR,TUR,admin,157452.0,ERC,LTCD,Erzincan Airport
+Salzburg,Salzburg,47.8,13.045,Austria,AT,AUT,admin,155021.0,SZG,LOWS,Salzburg
+Cagliari,Cagliari,39.2278,9.1111,Italy,IT,ITA,admin,154106.0,CAG,LIEE,Cagliari - Elmas Airport
+Nevşehir,Nevsehir,38.6264,34.7139,Turkey,TR,TUR,admin,153117.0,NAV,LTAZ,Nevsehir Kapadokya Airport
+Podgorica,Podgorica,42.4413,19.2629,Montenegro,ME,MNE,primary,150977.0,TGD,LYPG,Podgorica-Golubovci
+Logroño,Logrono,42.465,-2.4456,Spain,ES,ESP,admin,150808.0,RJL,LELO,Logrono-Agoncillo Airport
+Miskolc,Miskolc,48.0833,20.6667,Hungary,HU,HUN,admin,150695.0,MCQ,LHMC,Miskolc Airport
+Ağrı,Agri,39.7186,43.0508,Turkey,TR,TUR,admin,149188.0,AJI,LTCO,Agri Airport
+Kutaisi,Kutaisi,42.25,42.7,Georgia,GE,GEO,admin,147900.0,KUT,UGKO,Kutaisi
+Sibiu,Sibiu,45.7928,24.1519,Romania,RO,ROU,admin,147245.0,SBZ,LRSB,Sibiu Intl Airport
+Bacău,Bacau,46.5833,26.9167,Romania,RO,ROU,admin,144307.0,BCM,LRBC,Bacau Intl Airport
+Aalborg,Aalborg,57.05,9.9167,Denmark,DK,DNK,admin,143598.0,AAL,EKYT,Aalborg Airport
+Coimbra,Coimbra,40.2111,-8.4292,Portugal,PT,PRT,admin,143396.0,CBP,LPCO,Coimbra Airport
+Reykjavík,Reykjavik,64.1467,-21.94,Iceland,IS,ISL,primary,135688.0,RKV,BIRK,Reykjavik Airport
+Târgu-Mureş,Targu-Mures,46.5456,24.5625,Romania,RO,ROU,admin,134290.0,TGM,LRTM,Targu Mures Intl Airport
+Bern,Bern,46.9481,7.4475,Switzerland,CH,CHE,primary,133883.0,BRN,LSZB,Bern - Belp
+Luxembourg,Luxembourg,49.6117,6.1319,Luxembourg,LU,LUX,primary,132780.0,LUX,ELLX,Luxembourg Intl Airport (Findel)
+Innsbruck,Innsbruck,47.2683,11.3933,Austria,AT,AUT,admin,132493.0,INN,LOWI,Innsbruck
+Västerås,Vasteras,59.6161,16.5528,Sweden,SE,SWE,admin,128660.0,VST,ESOW,Hasslo
+Örebro,Orebro,59.2739,15.2075,Sweden,SE,SWE,admin,126604.0,ORB,ESOE,Orebro
+Baia Mare,Baia Mare,47.6667,23.5833,Romania,RO,ROU,admin,123738.0,BAY,LRBM,Baia Mare Airport
+Orléans,Orleans,47.9025,1.909,France,FR,FRA,admin,116269.0,ORE,LFOJ,Orleans - Bricy Airport
+Kars,Kars,40.6078,43.0958,Turkey,TR,TUR,admin,115891.0,KSY,LTCF,Kars Airport
+Linköping,Linkoping,58.4158,15.6253,Sweden,SE,SWE,admin,115682.0,LPI,ESSL,Saab
+Uzhhorod,Uzhhorod,48.6239,22.295,Ukraine,UA,UKR,admin,114897.0,UDJ,UKLU,Uzhhorod Airport
+Ioánnina,Ioannina,39.6636,20.8522,Greece,GR,GRC,admin,113094.0,IOA,LGIO,Ioannina National Airport
+Jönköping,Jonkoping,57.7828,14.1606,Sweden,SE,SWE,admin,112766.0,JKG,ESGJ,Jonkoping
+Rouen,Rouen,49.4428,1.0886,France,FR,FRA,admin,112321.0,URO,LFOP,Rouen - Vallee de Seine Airport
+Žilina,Zilina,49.2228,18.74,Slovakia,SK,SVK,admin,108000.0,ILZ,LZZI,Zilina Airport
+Satu Mare,Satu Mare,47.79,22.89,Romania,RO,ROU,admin,102411.0,SUJ,LRSM,Satu Mare Intl Airport
+Klagenfurt,Klagenfurt,46.6167,14.3,Austria,AT,AUT,admin,101403.0,KLU,LOWK,Klagenfurt
+Ancona,Ancona,43.6169,13.5167,Italy,IT,ITA,admin,100924.0,AOI,LIPY,Ancona Falconara Airport (Raffaello Sanzio Airport)
